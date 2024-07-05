@@ -1,0 +1,23 @@
+{    
+    "description": {
+        "title": "Imaging Sciences and Data Experts Analyses",
+        "vision": "Entendemos la innovación tecnológica como una herramienta para facilitar calidad de vida",
+        "mission": "This is our mission",
+        "tagline": "Nuestra experiencia y conocimiento técnico en procesos de I+D+i nos hacen el socio ideal para simplificar tú estrategia de innovación",
+        "summary": "Our technical background and research experience can streamline your innovation strategy"
+    },
+    
+    "headers": {
+        "services": "Servicios",
+        "portfolio": "Portafolio",
+        "about": "Quiénes Somos",
+        "contact": "Contáctanos",
+        "learnMore": "Más Detalles"
+    },
+    
+    "demo": {
+        "demoTitle": "Demo Func.",
+        "multiFrameSPA": "SPA Multi-Frame",
+        "singleFrameSPA": "SPA Single-Frame"
+    }
+}

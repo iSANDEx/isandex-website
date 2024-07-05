@@ -1,0 +1,44 @@
+/* Custom Bootstrap Overrides */
+.bg-primary {
+    background-color: #273b87 !important;
+  }
+  
+  .text-primary {
+    color: #273b87 !important;
+  }
+  
+  .text-secondary {
+    color: #6a93d4 !important;
+  }
+  
+  .text-dark-gray {
+    color: #333333 !important;
+  }
+  
+  .btn-primary {
+    background-color: #ff7f50;
+    border-color: #ff7f50;
+  }
+  
+  .masthead {
+    background-color: #273b87;
+  }
+  
+  .page-section {
+    padding: 100px 0;
+  }
+  
+  .service-heading {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #333333;
+  }
+  
+  .portfolio-hover {
+    background: rgba(39, 59, 135, 0.8);
+  }
+  
+  .text-white {
+    color: #ffffff !important;
+  }
+

@@ -14,7 +14,7 @@ function Portfolio() {
                 <i className="fas fa-plus fa-3x"></i>
               </div>
             </div>
-            <img className="img-fluid" src="img/portfolio/01-thumbnail.jpg" alt="" />
+            <img className="img-fluid" src={process.env.PUBLIC_URL + '/portfolio_imgs/01-thumbnail.png'} height="32px" alt="Pydroponia" />
           </a>
           <div className="portfolio-caption">
             <h4>Project Name</h4>
