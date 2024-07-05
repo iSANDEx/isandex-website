@@ -5,12 +5,10 @@
         "mission": "Our technical background and research experience can streamline your innovation strategy",
         "tagline": "We offer the right set of skills to streamline your innovation programs",
         "summary": {
-            "part1": "Innovation should be present throughout the whole lifecycle of a product. For example to develop new applications for your products, you will need scientific innovation, and to expand sales to another country, you will need market  innovation.",
+            "part1": "Innovation should be present throughout the whole lifecycle of a product. For example to develop new applications for your products, you will need scientific innovation, and to expand sales to another country, you will need market innovation.",
             "part2": "With 15+ years of experience innovating in dynamic, highly specialised, multi-disciplinary and multi-cultural industries."
         }
     },
-
-
 
     "headers": {
         "services": "Services",
@@ -21,8 +19,8 @@
     },
     
     "demo": {
-        "demoTitle": "Demos",
-        "multiFrameSPA": "SPA Multi-Frame",
-        "singleFrameSPA": "SPA Single-Frame"
+        "demoTitle": "Demo View",
+        "multiFrameSPA": "Multi-Frame SPA",
+        "singleFrameSPA": "Single-Frame SPA"
     }
 }

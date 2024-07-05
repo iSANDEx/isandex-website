@@ -2,11 +2,14 @@
     "description": {
         "title": "Imaging Sciences and Data Experts Analyses",
         "vision": "Entendemos la innovación tecnológica como una herramienta para facilitar calidad de vida",
-        "mission": "This is our mission",
+        "mission": "Ponemos nuestro conocimiento a disposición para acelerar la estrategia de innovación de las organizaciones",
         "tagline": "Nuestra experiencia y conocimiento técnico en procesos de I+D+i nos hacen el socio ideal para simplificar tú estrategia de innovación",
-        "summary": "Our technical background and research experience can streamline your innovation strategy"
+        "summary": {
+            "part1": "La innovación está presente a lo largo de todo el ciclo de vida de un producto. Para desarrollar nuevas aplicaciones y servicios, realizamos innovación científica; para expandir ventas a otras regiones, realizamos innovación de mercado.",
+            "part2": "Contamos con más de 15 años de experiencia realizando innovación dinámica en industrias altamente reguladas, especializadas, multi-disciplinarias y multi-culturales."            
+        }
     },
-    
+
     "headers": {
         "services": "Servicios",
         "portfolio": "Portafolio",
