@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/isandex-website/static/css/main.5cffaa82.css",
-    "main.js": "/isandex-website/static/js/main.248a4c3e.js",
-    "static/js/453.d1a6439a.chunk.js": "/isandex-website/static/js/453.d1a6439a.chunk.js",
-    "index.html": "/isandex-website/index.html",
-    "static/media/getFetch.cjs": "/isandex-website/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
-    "main.5cffaa82.css.map": "/isandex-website/static/css/main.5cffaa82.css.map",
-    "main.248a4c3e.js.map": "/isandex-website/static/js/main.248a4c3e.js.map",
-    "453.d1a6439a.chunk.js.map": "/isandex-website/static/js/453.d1a6439a.chunk.js.map"
+    "main.css": "/static/css/main.5cffaa82.css",
+    "main.js": "/static/js/main.d3849abb.js",
+    "static/js/453.d1a6439a.chunk.js": "/static/js/453.d1a6439a.chunk.js",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.c4cca45e22bc1b2c7d0d.cjs",
+    "main.5cffaa82.css.map": "/static/css/main.5cffaa82.css.map",
+    "main.d3849abb.js.map": "/static/js/main.d3849abb.js.map",
+    "453.d1a6439a.chunk.js.map": "/static/js/453.d1a6439a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5cffaa82.css",
-    "static/js/main.248a4c3e.js"
+    "static/js/main.d3849abb.js"
   ]
 }
