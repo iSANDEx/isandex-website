@@ -18,6 +18,13 @@
         "learnMore": "Learn More"
     },
     
+    "sections": {
+        "aboutus": {
+            "part1": "We are a consultancy business led by a qualified imaging scientist with extensive experience in developing quantitative imaging biomarkers and computer vision applications.",
+            "part2": "Our expertise spans across the pharmaceutical and medical device industries, as well as the energy and manufacturing sectors."
+        }
+    },
+
     "demo": {
         "demoTitle": "Demo View",
         "multiFrameSPA": "Multi-Frame SPA",
