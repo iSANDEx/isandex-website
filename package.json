@@ -18,7 +18,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://iSANDEx.github.io/isandex-website",
+  "homepage": "https://isandex.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
