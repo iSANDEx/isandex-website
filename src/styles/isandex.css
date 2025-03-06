@@ -1,6 +1,7 @@
 /* Custom Bootstrap Overrides */
 .bg-primary {
-    background-color: #273b87 !important;
+    /* background-color: #273b87 !important; */
+    background-color: #4d75a0 !important;
   }
   
   .text-primary {

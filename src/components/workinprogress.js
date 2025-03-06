@@ -5,7 +5,7 @@ const title = <img src="./404.png" height="200" alt='iSANDEx Logo'></img>
 
 
 const body = <>
-    <Link replace to="/" className="btn btn-success" >Click to go back</Link>
+    <Link replace to="mailto:info@isandex.com" className="btn btn-success" >Contact Us</Link>
     </>
 
 function WIP() {
@@ -13,9 +13,9 @@ function WIP() {
         <Card 
             bgcolor="primary"
             txtcolor="white"
-            header="Ops!! PAGE NOT FOUND"
+            header="We're redesigning this space"
             title={title}
-            text="Function requested has not been implemented yet"
+            text="Coming soon!!"
             body = {body}
          />
     );

@@ -9,9 +9,9 @@ import Form from 'react-bootstrap/Form';
 
 import NavBar from './components/header';
 import Home from './components/home';
-import Services from './components/services';
-import Portfolio from './components/portfolio';
-import About from './components/about';
+// import Services from './components/services';
+// import Portfolio from './components/portfolio';
+// import About from './components/about';
 import Contact from './components/contact';
 import Footer from './components/footer';
 
@@ -30,29 +30,29 @@ function App() {
   
   return (
   <>
-  <hr/>
+  {/* <hr/>
   <Form.Switch onClick={() => setDisplay(!displaySingleFrame)} 
                id="single-frame-switch" 
                label={displaySingleFrame ? singleFrameSPAText : multiFrameSPAText}/>
-  <hr/>
+  <hr/> */}
   <Container className="App">
     <Router>
       <NavBar/>
       {displaySingleFrame ? 
           <>
               <Home/>
-              <Services/>
+              {/* <Services/>
               <Portfolio/>
               <About/>
-              <Contact/>
+              <Contact/> */}
           </>
           :
           <Routes>
               <Route path="/" exact element={<Home/>}/>
-              <Route path="/services" exact element={<Services/>}/>
+              {/* <Route path="/services" exact element={<Services/>}/>
               <Route path="/portfolio" exact element={<Portfolio/>}/>
-              <Route path="/about" exact element={<About/>}/>
-              <Route path="/contact" exact element={<Contact/>}/>
+              <Route path="/about" exact element={<About/>}/> */}
+              <Route path="/contact" exact element={<Contact/>}/> 
           </Routes>
   }
     <Footer/>

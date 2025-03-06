@@ -24,14 +24,14 @@ function Header({callBack, displayType}) {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav variant="pills" className="ms-auto" defaultActiveKey="#" >
-                    <Nav.Link href="#services"> {t("headers.services", 'serv')} </Nav.Link>
+                    {/* <Nav.Link href="#services"> {t("headers.services", 'serv')} </Nav.Link>
                     <Nav.Link href="#portfolio">{t('headers.portfolio', 'pfolio')}</Nav.Link>
                     <Nav.Link href="#about">{t('headers.about', 'abut')}</Nav.Link>
-                    <Nav.Link href="#contact">{t('headers.contact', 'email')}</Nav.Link>
+                    <Nav.Link href="#contact">{t('headers.contact', 'email')}</Nav.Link> */}
                 </Nav>
             </Navbar.Collapse>
             </Container>
-            <ButtonGroup aria-label="Language Selector">
+            {/* <ButtonGroup aria-label="Language Selector">
                 {Object.keys(lngs).map((lng) => (
                     <Button key={lng} 
                             variant={i18n.resolvedLanguage === lng ? 'primary' : 'outline-primary' }                    
@@ -40,7 +40,7 @@ function Header({callBack, displayType}) {
                             {lngs[lng].nativeName}
                     </Button>
                 ))}
-            </ButtonGroup>
+            </ButtonGroup> */}
         </Navbar>
 );
 }
